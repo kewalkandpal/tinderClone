@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tinderClone/static/css/main.823ea510.chunk.css",
+    "main.js": "/tinderClone/static/js/main.166ea6b3.chunk.js",
+    "main.js.map": "/tinderClone/static/js/main.166ea6b3.chunk.js.map",
+    "runtime-main.js": "/tinderClone/static/js/runtime-main.d4edd565.js",
+    "runtime-main.js.map": "/tinderClone/static/js/runtime-main.d4edd565.js.map",
+    "static/js/2.db015de3.chunk.js": "/tinderClone/static/js/2.db015de3.chunk.js",
+    "static/js/2.db015de3.chunk.js.map": "/tinderClone/static/js/2.db015de3.chunk.js.map",
+    "index.html": "/tinderClone/index.html",
+    "static/css/main.823ea510.chunk.css.map": "/tinderClone/static/css/main.823ea510.chunk.css.map",
+    "static/js/2.db015de3.chunk.js.LICENSE.txt": "/tinderClone/static/js/2.db015de3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4edd565.js",
+    "static/js/2.db015de3.chunk.js",
+    "static/css/main.823ea510.chunk.css",
+    "static/js/main.166ea6b3.chunk.js"
+  ]
+}
