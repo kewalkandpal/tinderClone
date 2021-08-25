@@ -1,0 +1,27 @@
+.buttons{
+    position: fixed;
+    bottom: 5vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.buttons .MuiButtonBase-root{
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+}
+.btnReply{
+    color:#f5b748;
+}
+.btnClose{
+    color:#ec5e6f;
+}
+.btnStar{
+    color:#62b4f9;
+}
+.btnFav{
+    color:#76e2b3;
+}
+.btnFlash{
+    color:#915dd1;
+}
